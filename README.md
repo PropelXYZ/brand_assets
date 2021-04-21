@@ -1,2 +1,2 @@
-# brand_assets
+# Propel brand assets
 Brand assets for propel
